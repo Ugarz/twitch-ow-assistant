@@ -1,0 +1,26 @@
+{
+  "name": "nara",
+  "version": "0.1.0",
+  "description": "Overwatch Twitch bot assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ugarz/Nara.git"
+  },
+  "author": "Ugo Arzur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ugarz/Nara/issues"
+  },
+  "homepage": "https://github.com/Ugarz/Nara#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "lodash": "^4.17.21",
+    "tmi.js": "^1.5.0"
+  }
+}
