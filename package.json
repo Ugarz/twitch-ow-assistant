@@ -1,6 +1,6 @@
 {
   "name": "nara",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Overwatch Twitch bot assistant",
   "main": "server.js",
   "scripts": {
